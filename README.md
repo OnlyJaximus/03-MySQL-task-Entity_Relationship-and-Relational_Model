@@ -23,6 +23,8 @@ ENTITETI: CD klub, CD, kategorija, clan, pozajmica, kategorija clana </br>
 
 
 ![1](https://user-images.githubusercontent.com/56784702/208904324-fd6a330d-1daf-418d-a8a8-d6e4c4cfc4c9.png)
+![3 kraj text zad](https://user-images.githubusercontent.com/56784702/208904488-22c60e68-23bb-448d-bc0b-61d10a1fbd02.png)
+
 ![zad 1 slika](https://user-images.githubusercontent.com/56784702/208904334-2dc6200a-fac6-4021-ad9d-b6bf4382ffd1.png)
 ![zad 2 slika](https://user-images.githubusercontent.com/56784702/208904342-d16dca3e-0292-4445-9f8d-2543c8e8f957.png)
 
