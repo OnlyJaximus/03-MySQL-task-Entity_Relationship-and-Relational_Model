@@ -5,10 +5,10 @@
 
 SLABI ENTITETI (dupli pravougaonik) :   </br>
 
-- CD se identifikuje preko svog ID_BROJA i NAZIVA CD KLUBA (npr CD broj 3 pripada CD klubu koji se zove recimo "Pinky" ) </br>
+-1 CD se identifikuje preko svog ID_BROJA i NAZIVA CD KLUBA (npr CD broj 3 pripada CD klubu koji se zove recimo "Pinky" ) </br>
   Morace se identifikovati preko svog ID_BROJA i naziva CD_KLUBA </br>
   
-- Pozajmica se moze identifikovati preko datuma iznajmljivanja i ID broja CD-a. </br>
+-2 Pozajmica se moze identifikovati preko datuma iznajmljivanja i ID broja CD-a. </br>
 
 - Imamo CD koji se identifikuje preko CD kluba, imamo pozajmicu koja se identifikuje preko CD. </br>
 - Da bi identifikovali pozajmicu, moramo da znamo CD, CD klub. </br>
